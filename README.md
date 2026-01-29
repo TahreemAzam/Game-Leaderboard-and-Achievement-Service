@@ -1,5 +1,4 @@
-# Game-Leaderboard-and-Achievement-Service
-# Game Leaderboard and Achievement Service 🏆
+# Game-Leaderboard-and-Achievement-Service🏆
 
 ## Description
 A C# backend project implementing a Game Leaderboard with a global leaderboard and achievement system using Command and Observer Pattern.

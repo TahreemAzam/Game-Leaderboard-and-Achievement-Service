@@ -20,6 +20,6 @@ A C# backend project implementing a Game Leaderboard with a global leaderboard a
 ## Tech Stack
 - C# (.NET 7)
 - Visual Studio
-- Optional: SQLite / JSON file for storing scores
+
 
 
